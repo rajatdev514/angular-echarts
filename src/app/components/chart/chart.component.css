@@ -1,0 +1,9 @@
+.chart-container {
+  width: 90%;
+  height: 550px;
+  overflow-x: auto;
+  padding: 1rem;
+  border-radius: 12px;
+  background-color: #fff;
+  /* box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); */
+}
